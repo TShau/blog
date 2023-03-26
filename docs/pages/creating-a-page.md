@@ -25,7 +25,19 @@ title: The page title
 subtitle: The page subtitle
 ```
 
+  ## Search Engine Optimisation
 
+Bulma Clean Theme uses Jekyll SEO tag to generate additional meta tags. Ensure each page and post has a unique title and description in the front matter. 
+
+You can also set an image that will be used when the page or post is shared on social media. 
+
+```yaml
+layout: page
+title: The page title
+subtitle: The page subtitle
+description: This is the meta description for this page and will help it appear in search engines
+image: /img/page-image.jpg
+```
 
 
 
