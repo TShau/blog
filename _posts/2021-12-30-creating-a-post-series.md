@@ -11,7 +11,7 @@ tags: bulma-clean-theme jekyll blog
 series: example_blog_series
 ---
 
-From version 0.12, you can now make a post a part of a series of posts, linking to the other posts in the series, by creating a `series` data file and then setting the series in each of the post's front matter.  
+From version 0.13, you can now make a post a part of a series of posts, linking to the other posts in the series, by creating a `series` data file and then setting the series in each of the post's front matter.  
 
 The current post in the list is highlighted to help give context of where you are in the series. 
 
