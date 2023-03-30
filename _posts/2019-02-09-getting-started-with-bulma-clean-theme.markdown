@@ -92,19 +92,6 @@ defaults:
       show_sidebar: true
 ```
 
-## Styles
-
-The theme uses Bulma frontend framework which provides a wide range of sass variable customisations. If you want to overwrite any of the standard variables, such as the primary theme colour, then set a sass variable in a new file in assets/css/app.scss before importing the main stylesheet.
-
-```scss
----
----
-$primary: #333333;
-// Import Main CSS file from theme
-@import "main";
-```
-
-You can also add any of your own custom css to this file if you want to. 
 
 ### Navigation
 
